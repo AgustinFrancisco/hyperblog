@@ -1,4 +1,9 @@
-hola mundo 
-soy agustin
-soy del estado de hidalgo
-y del municipio de huejutla
+Participantes en el proyecto
+
+Nombre: Agustin.
+Domicilio: Huejutla, Hidalgo.
+Edad: 22.
+
+Nombre: Nitsuga.
+Domicilio: Santa Catarina, Nuevo Leòn.
+Edad: 23.
