@@ -7,3 +7,4 @@ Edad: 22.
 Nombre: Nitsuga.
 Domicilio: Santa Catarina, Nuevo Leòn.
 Edad: 23.
+Solo soy colaborador de este proyecto.
