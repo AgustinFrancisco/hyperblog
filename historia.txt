@@ -8,6 +8,8 @@ Nombre: Nitsuga.
 Domicilio: Santa Catarina, Nuevo Leòn.
 Edad: 23.
 
+Experimento bugs 1
+
 Master 1
 
 Master 2
